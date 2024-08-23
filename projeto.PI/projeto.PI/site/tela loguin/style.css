@@ -1,0 +1,18 @@
+body {
+    margin: 300px;
+    background-color: #83227f;
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    padding: 20px 0 20px 0;
+    flex-direction: row;
+}
+
+.tela_loguin {
+    display: flex;
+    flex-direction: row;
+}
+
+.img-login {
+    padding-right: 40px;
+}

@@ -1,0 +1,93 @@
+/* Inicio */
+
+* {
+    
+    /*padding: 0;*/
+}
+
+body {
+    background-color: rgb(13, 99, 169);
+}
+
+.box-principal {
+    margin: 10px;
+}
+
+.text-h1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+/* Botao  */
+
+.bt {
+    margin: 20px;
+    padding: 0px;
+    border-radius: 100px solid black;
+}
+
+.front-end, .back-end, .full-stack, .ciber-segurança, .analise-dados, .todos {
+    padding: 10px;
+    border-radius: 10px solid black;
+    margin: 8px;
+}
+
+.front-end {
+    background-color: aqua;
+}
+
+/* linha */
+
+.linha {
+    width: 100%;
+    border-bottom: 1px solid #000000;
+}
+
+/* conteudo ao clicar no botao */
+
+.conteudo-ao-clicar-no-botao {
+    width: 100%;
+    border-radius: 10px solid #ffffff;
+}
+
+.angula, .react, .vue {
+    padding: 40px;
+    border-radius: 20px;
+    border-width: 4px;
+    background-color: rgb(255, 255, 255);
+}
+
+.react {
+    background-color: aqua;
+}
+
+
+/* Conteudo react */
+
+.box1, .box2, .box3, .box4, .box5, .box6, .box7 {
+    padding: 40px;
+    border-radius: 35px;
+}
+.basico {
+    color: white;
+    text-align: center;
+}
+
+.box1 {
+    background-color: aqua;
+}
+
+/* conteudo html: */
+
+.conteudo-html ul {
+    margin: 10px;
+}
+
+.lista {
+    color: white;
+    font-size: 20px;
+}
+
+.html {
+    color: white;
+}
